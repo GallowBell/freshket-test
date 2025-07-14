@@ -70,8 +70,8 @@ Order: 5x Orange sets
 
 ```bash
 # Clone the repository
-git clone freshket-test-be
-cd freshket-test-be
+git clone https://github.com/GallowBell/freshket-test
+cd freshket-test
 
 # Run the application
 go run .
